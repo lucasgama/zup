@@ -1,0 +1,2 @@
+Para ver o teste, inclua o projeto no seu workspace do eclipce.
+Contido no projeto, tem-se a classe 'robo', onde se encontra todo o codigo ultilisado no testes.
